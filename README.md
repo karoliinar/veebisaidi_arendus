@@ -1,3 +1,3 @@
 # veebisaidi_arendus
 
-Team: Greg & Karoliina 
+Team: Karoliina 
